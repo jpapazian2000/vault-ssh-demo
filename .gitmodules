@@ -1,0 +1,6 @@
+[submodule "vault-ssh-conf"]
+	path = vault-ssh-conf
+	url = https://github.com/jpapazian2000/vault-ssh-conf.git
+[submodule "aws-conf-vault-ssh"]
+	path = aws-conf-vault-ssh
+	url = https://github.com/jpapazian2000/aws-conf-vault-ssh.git
