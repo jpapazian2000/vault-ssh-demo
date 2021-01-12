@@ -25,4 +25,4 @@ What you need:
 
 Select in order the following order in submodule to understand how it works:
 1. vault-ssh-conf
-2. aws-vault-ssh-conf
+2. aws-conf-vault-ssh
