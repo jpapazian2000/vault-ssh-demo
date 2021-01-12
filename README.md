@@ -22,3 +22,7 @@ The 2 subdirectories in this folder and the associated files will do all the wor
 What you need:
 1. a Terraform Cloud account
 2. an AWS subscription
+
+Select in order the following order in submodule to understand how it works:
+1. vault-ssh-conf
+2. aws-vault-ssh-conf
